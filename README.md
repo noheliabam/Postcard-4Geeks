@@ -18,4 +18,4 @@ Diseño Responsive
 
 ¿Cómo verlo?
 
-Puedes abrir rl archivo index.htm en cualquier navegador.
+Puedes abrir el archivo index.html en cualquier navegador.
