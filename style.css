@@ -54,8 +54,9 @@ h1 {
   bottom: 30px;
   left: 0;
   width: 100%;
-  text-align: center; /* ✅ centra el botón horizontalmente */
-  
+  text-align: center;
+  /* ✅ centra el botón horizontalmente */
+
 }
 
 button {
